@@ -25,7 +25,7 @@ npm run serve
 ### Checkout v1.0
 
 [Github link](https://github.com/arghac14/Cinemy) <br>
-[Live Demo](https://cinemy.herokuapp.com/)
+[Live Demo: cinemy.herokuapp.com](https://cinemy.herokuapp.com/)
 
 ### Snaps of v1.0:
 
