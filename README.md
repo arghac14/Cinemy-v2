@@ -1,7 +1,6 @@
 # Cinemy-v2
 
-### About:
-
+### About the project:
 
 
 ### Snaps of v2.0:
