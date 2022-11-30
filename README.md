@@ -2,6 +2,12 @@
 
 ### About the project:
 
+Movie info web app built using .Net Core (following BDD using Specflow and tests written in Gherkin), VueJs and MS SQL Server database, supporting user and admin level UI flow - enabling users to browse through movies, actors, producers etc and admins to edit and delete movie information on the dashboard. 
+
+## Tech stack used:
+
+ASP .Net Core, VueJs, MS SQL Server
+
 
 ### Snaps of v2.0:
 
